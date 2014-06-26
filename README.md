@@ -5,6 +5,15 @@ My personal vi configs
 
 ### Installation
 ```sh
+git clone git@github.com:yorkie/dotVimrc.git
+```
+or
+```sh
+git clone https://github.com/yorkie/dotVimrc.git
+```
+
+### Usage
+```sh
 make install
 ```
 
