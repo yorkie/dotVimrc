@@ -13,3 +13,6 @@ set shiftwidth=2
 set tabstop=2
 set expandtab
 
+" set cursorline
+set cursorline
+hi  cursorline cterm=none ctermbg=lightgrey
